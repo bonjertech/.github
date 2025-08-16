@@ -20,44 +20,6 @@ Bonjer is a modular, secure, and scalable platform built to support the **digita
 - 🧠 **Smart Automation** – Data-driven insights & workflow automation
 - 🌐 **Multi-Segment Ready** – B2B, B2C, and B2G support
 
-
-## 🛠️ Tech Stack
-
-### 🧠 Backend Expertise
-
-- Languages: Go (Golang), Python, Java, Node.js, Rust
-- Frameworks:
-  - Go: Gin, Echo, Fiber
-  - Python: FastAPI, Django, Flask
-  - Java: Spring Boot, Micronaut
-  - Node.js: Express, NestJS
-- Databases:
-  - SQL: PostgreSQL, MySQL, CockroachDB
-  - NoSQL: MongoDB, Redis, DynamoDB, Cassandra
-- API/Protocols: REST, gRPC, GraphQL, WebSockets
-- Architecture:
-  - Microservices, Event-Driven Architecture, REST, GraphQL, gRPC, WebSockets
-  - Domain-Driven Design (DDD), CQRS, Clean Architecture
-  - Performance Optimization, Scalability, Security (OAuth2, JWT, TLS)
-
-### 🎨 Frontend Stack
-
-- Languages: TypeScript, JavaScript (ES6+)
-- Frameworks: React.js, Next.js, Vue.js, Nuxt.js
-- State Management: Redux, Zustand, Pinia
-- UI Kit: Ant Design, Vuetify, DaisyUI
-- Styling: CSS, SCSS, Tailwind
-- Build Tools: Vite, Webpack
-- Testing: Jest, Cypress
-
-### ☁️ Cloud & DevOps
-
-- Platforms: AWS, GCP, Azure, DigitalOcean
-- Infrastructure: Kubernetes, Docker, Terraform, Pulumi
-- CI/CD: GitHub Actions, GitLab CI, ArgoCD, Jenkins
-- Monitoring: Prometheus, Grafana, Jaeger, ELK Stack
-
-
 ## 🤝 Contribute & Collaborate
 
 We're actively building Bonjer in public! Want to contribute?
